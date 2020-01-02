@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/daninoan/static/css/main.d1b05096.chunk.css",
+    "main.js": "/daninoan/static/js/main.12f617a2.chunk.js",
+    "main.js.map": "/daninoan/static/js/main.12f617a2.chunk.js.map",
+    "runtime-main.js": "/daninoan/static/js/runtime-main.2b2b2a41.js",
+    "runtime-main.js.map": "/daninoan/static/js/runtime-main.2b2b2a41.js.map",
+    "static/js/2.446b3cb8.chunk.js": "/daninoan/static/js/2.446b3cb8.chunk.js",
+    "static/js/2.446b3cb8.chunk.js.map": "/daninoan/static/js/2.446b3cb8.chunk.js.map",
+    "index.html": "/daninoan/index.html",
+    "precache-manifest.f0bf2746dbc6a7a3d5b54e6095d4092c.js": "/daninoan/precache-manifest.f0bf2746dbc6a7a3d5b54e6095d4092c.js",
+    "service-worker.js": "/daninoan/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/daninoan/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.446b3cb8.chunk.js.LICENSE": "/daninoan/static/js/2.446b3cb8.chunk.js.LICENSE",
+    "static/media/logo.svg": "/daninoan/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b2b2a41.js",
+    "static/js/2.446b3cb8.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.12f617a2.chunk.js"
+  ]
+}
